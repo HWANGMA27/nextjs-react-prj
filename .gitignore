@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Next.js build output
+.next/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# Lock files
+*.lock
+
+# VSCode directory
+.vscode/
+
+# IDE directories and files
+.idea/
+.DS_Store
+Thumbs.db
